@@ -1,2 +1,2 @@
-print("hello world")
-print("welcome to github")
+print("hello india")
+print("welcome git")
